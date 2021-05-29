@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">LoginMySql</string>
+    <string name="pref_file_key">pref_file_key</string>
+    <string name="pref_user_username">user_username</string>
+    <string name="pref_user_email">user_email</string>
+    <string name="pref_is_user_login">is_user_login</string>
+</resources>
